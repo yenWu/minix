@@ -1,4 +1,4 @@
-EXEC = strpbrk
+EXEC = strpbrk fork_execvp
 
 all: $(EXEC)
 
